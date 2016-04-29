@@ -2,7 +2,8 @@
 Repo holder for first meeting.
 
 
-Ovo je poruka u novom branchu.
+
 Učim git.
+Ovo je poruka u novom branchu
 
 
